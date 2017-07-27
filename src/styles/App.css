@@ -1,0 +1,45 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+}
+
+#starwars-header {
+  background-color: white;
+  margin: 10px 40px 10px 40px;
+  padding: 40px 0px 40px 0px;
+}
+
+#starwars-header h1, #starwars-header p {
+  margin-left: 10px;
+}
+
+#starwars-form {
+  background-color: white;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px 40px 10px 40px;
+  padding: 20px 0px 20px 0px;
+}
+
+#vehicles-container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 10px 40px 10px 40px;
+}
+
+.vehicle {
+  background-color: white;
+  width: 30%;
+  margin-bottom: 10px;
+  padding: 20px;
+}
