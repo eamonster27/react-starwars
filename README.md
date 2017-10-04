@@ -1,5 +1,7 @@
 Heroku App: https://eamonbachari-reactjs.herokuapp.com/
 
+Basic API and State/Prop demo. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
